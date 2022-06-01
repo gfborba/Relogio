@@ -1,15 +1,17 @@
 body {
-    background-color: rgb(171, 95, 206); font: normal 15px Verdana
+    background-color: rgb(171, 95, 206); font: normal 15px Verdana;
+    margin-top: 5em;
 }
 header {
- color: rgba(218, 214, 214, 0.89);
+ color: rgba(231, 228, 228, 0.966);
  text-align: center;
+ text-shadow: 0.5px 1px 0px rgba(0, 0, 0, 0.575);
 }
 section { background-color: beige; border-radius: 10px; padding: 15px; width: 500px; margin: auto; box-shadow: 5px 5px 10px rgb(41, 39, 41);
 
 }
 footer {
-color: blanchedalmond;
+color: rgb(196, 180, 156);
 text-align: center;
 font-style: italic;
 }
@@ -17,4 +19,8 @@ font-style: italic;
 div {
     text-align: center;
     padding: 6px;
+}
+img#imagem{
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
