@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(171, 95, 206); font: normal 15px Verdana
+}
+header {
+ color: rgba(218, 214, 214, 0.89);
+ text-align: center;
+}
+section { background-color: beige; border-radius: 10px; padding: 15px; width: 500px; margin: auto; box-shadow: 5px 5px 10px rgb(41, 39, 41);
+
+}
+footer {
+color: blanchedalmond;
+text-align: center;
+font-style: italic;
+}
+
+div {
+    text-align: center;
+    padding: 6px;
+}
