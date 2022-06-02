@@ -17,7 +17,7 @@ function carregar() {
         } else if (hora>=13 && hora<18){img.src='tarde.png'
         document.body.style.background ='#8c9dad'
          edu.innerText =('Boa Tarde! Não se esqueça do cafézinho.')
-        } else {img.src='imagens/noite.png'
+        } else {img.src='noite.png'
         document.body.style.background ='#534266'
         edu.innerText = ('Boa Noite! Você conseguiu, hora de descansar.')
         
